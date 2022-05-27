@@ -1,8 +1,8 @@
 ﻿PhotoBlog İzlenecek Adımlar
 1) EF paketleri kurulur.
-	Install-Package Microsoft.EntityFrameworkCore -v 5.0.17
-	Install-Package Microsoft.EntityFrameworkCore.SqlServer -v 5.0.17
-	Install-Package Microsoft.EntityFrameworkCore.Tools -v 5.0.17
+	Install-Package Microsoft.EntityFrameworkCore
+	Install-Package Microsoft.EntityFrameworkCore.SqlServer
+	Install-Package Microsoft.EntityFrameworkCore.Tools
 	
 2) Modeller
 	- classlar
